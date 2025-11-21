@@ -10,10 +10,10 @@ import SignupPage from "./Dashborard/Signuppage.jsx";
 import Dashboard from "./Dashborard/Dash.jsx";
 import Navbar from "./Navbar.jsx";
 import Footer from "./Footer.jsx";
-import JobListingsApp from "./JobData/JobListingsApp.jsx";
-import JobDetail from "./JobData/JobDetail.jsx";
-import Mainjob from "./JobData/Mainjob.jsx";
-import JobPosting from "./JobData/JobPosting.jsx";
+import JobListingsApp from "./Jobdata/JobListingsApp.jsx";
+import JobDetail from "./Jobdata/JobDetail.jsx";
+import Mainjob from "./Jobdata/Mainjob.jsx";
+import JobPosting from "./Jobdata/JobPosting.jsx";
 
 // Create a wrapper component to conditionally show Navbar
 const AppContent = () => {
